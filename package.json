@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-07",
+  "version": "1.0.0",
+  "description": "https://jacobpavlik.github.io/goit-js-hw-07/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobpavlik/goit-js-hw-07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobpavlik/goit-js-hw-07/issues"
+  },
+  "homepage": "https://github.com/jacobpavlik/goit-js-hw-07#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
