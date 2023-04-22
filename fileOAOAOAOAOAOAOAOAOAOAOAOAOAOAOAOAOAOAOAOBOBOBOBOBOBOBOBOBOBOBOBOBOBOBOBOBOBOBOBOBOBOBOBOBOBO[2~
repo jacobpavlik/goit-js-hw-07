@@ -1,0 +1,17 @@
+[33mcommit 6061c69313510b95e457567651b840a25aeea882[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Jakub Pawlik <jakub.pawlik@vp.pl>
+Date:   Fri Apr 21 07:53:55 2023 +0200
+
+    Added 01-gallery.js file
+
+[33mcommit bf485d83b219ac72cd1d0c636cf3744794ac298c[m
+Author: Jakub Pawlik <jakub.pawlik@vp.pl>
+Date:   Wed Apr 19 10:40:50 2023 +0200
+
+    Added link to readme file
+
+[33mcommit 7133e413125e6467e11196805497405638c047df[m
+Author: Jakub Pawlik <jakub.pawlik@vp.pl>
+Date:   Wed Apr 19 10:18:05 2023 +0200
+
+    Added hw07 files
